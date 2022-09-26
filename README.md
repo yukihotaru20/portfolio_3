@@ -6,4 +6,3 @@
 <br><br>
 下記URLで動作確認できます。<br>
 https://yukihotaru20.github.io/portfolio_3/<br>
-<br><br><br><br><br><br><br><br><br><br>
